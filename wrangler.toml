@@ -4,5 +4,5 @@ compatibility_date = "2024-05-29"
 compatibility_flags = ["nodejs_compat"]
 
 kv_namespaces = [
-  { binding = "settings", id = "a51f93b318e441d6b8ecd51893b4cbc8" }
+  { binding = "settings", id = "devp-farid" }
 ]
